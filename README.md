@@ -1,2 +1,2 @@
 # simple-page-load-optimizer
-Simple Page Load Optimizer
+Just simple page load optimizer plugin for Wordpress.
